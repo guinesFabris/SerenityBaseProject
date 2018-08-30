@@ -1,0 +1,6 @@
+<acceptance-test-run title="Should calculate points based on distance" name="shouldCalculatePointsBasedOnDistance" steps="0" successful="0" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="102" timestamp="2018-08-30T16:01:04.474-03:00">
+  <user-story id="br.com.rsinet.testes.WhenCalculatingFrequentFlyerPoints" name="When calculating frequent flyer points" path="br.com.rsinet.testes"/>
+  <tags>
+    <tag name="When calculating frequent flyer points" type="story"/>
+  </tags>
+</acceptance-test-run>

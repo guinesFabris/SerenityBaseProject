@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="br.com.rsinet.testes.WhenCalculatingFrequentFlyerPoints" skipped="0" tests="1" time="0.1" timestamp="2018-08-242 04:01:04"><testcase classname="br.com.rsinet.testes.WhenCalculatingFrequentFlyerPoints" name="Should calculate points based on distance"/></testsuite>
